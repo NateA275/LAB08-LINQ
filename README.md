@@ -24,9 +24,9 @@ Queries are implemented using both LINQ format and Lambda expressions.
 
 ## Visuals
 
-![introduction](./LINQ_in_Manhatten/Assets/query.PNG)
+![introduction](../LINQ_in_Manhatten/Assets/query.PNG)
 
-![results](./LINQ_in_Manhatten/Assets/results.PNG)
+![results](../LINQ_in_Manhatten/Assets/results.PNG)
 
 ## Getting Started
 
